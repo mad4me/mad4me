@@ -1,2 +1,2 @@
-Learning C++ and python, 16 years old
+Learning Dart & Flutter, 17 years old
 
